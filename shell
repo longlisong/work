@@ -1,0 +1,3 @@
+#!/usr/bin/bash
+yum clean all
+yum makecache fast
